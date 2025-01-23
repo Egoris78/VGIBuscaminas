@@ -1,0 +1,2 @@
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D v2.0\x64\Release\Buscamines3D.exe
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\x64\Release\Buscamines3D.exe

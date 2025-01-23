@@ -1,0 +1,57 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OpenGLGame.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyGame.cpp
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(118,76): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(249,42): warning C4244: 'argument': conversion from 'ui32' to 'f32', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(249,28): warning C4244: 'argument': conversion from 'ui32' to 'f32', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(796,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(796,57): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(819,77): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(819,97): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(829,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(829,63): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(846,42): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(865,88): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(912,44): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1073,7): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1080,73): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1087,8): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1090,9): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1092,14): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1130,71): warning C4244: 'argument': conversion from 'double' to 'f32', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1130,51): warning C4244: 'argument': conversion from 'double' to 'f32', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1130,31): warning C4244: 'argument': conversion from 'double' to 'f32', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1131,70): warning C4244: 'argument': conversion from 'double' to 'f32', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1154,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1157,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1189,6): warning C4101: 'i': unreferenced local variable
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1464,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1464,57): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1487,77): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1487,97): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1498,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1498,63): warning C4018: '<': signed/unsigned mismatch
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1515,42): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1534,88): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1602,43): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1709,16): warning C4305: 'initializing': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1721,18): warning C4305: '-=': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1725,16): warning C4305: '=': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1739,19): warning C4305: '+=': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1743,17): warning C4305: '=': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1755,19): warning C4305: '+=': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1759,17): warning C4305: '=': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1776,7): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1843,7): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1850,73): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1855,8): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1858,9): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1860,14): warning C4305: 'argument': truncation from 'double' to 'f32'
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1902,71): warning C4244: 'argument': conversion from 'double' to 'f32', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1902,51): warning C4244: 'argument': conversion from 'double' to 'f32', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1902,31): warning C4244: 'argument': conversion from 'double' to 'f32', possible loss of data
+C:\Users\srkok\source\repos\OpenGL\Buscamines3D\Game\MyGame.cpp(1903,70): warning C4244: 'argument': conversion from 'double' to 'f32', possible loss of data
+  Buscamines3D.vcxproj -> C:\Users\srkok\source\repos\OpenGL\Buscamines3D\x64\Debug\Buscamines3D.exe

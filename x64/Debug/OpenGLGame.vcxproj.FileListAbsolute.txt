@@ -1,0 +1,2 @@
+C:\Users\srkok\source\repos\OpenGL\OpenGL-3D-Game-Tutorial-Series-Ultimate-Edition\Tutorial14_SkyBox\x64\Debug\OpenGLGame.exe
+C:\Users\srkok\source\repos\OpenGL\Tutorial14_SkyBox\x64\Debug\OpenGLGame.exe
