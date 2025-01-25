@@ -4,7 +4,8 @@ We made a 3D Minesweeper using OpenGL and Blender to create the objects that we 
 
 *Video*
 
-[![Minesweeper 3D university project](https://img.youtube.com/vi/GdrngHw5Dx4/0.jpg)](https://www.youtube.com/watch?v=GdrngHw5Dx4&ab_channel=SergioBarrancoAguilar)
+[![Minesweeper 3D university project](https://github.com/user-attachments/assets/1d55df54-6fe4-4cd8-80b0-da07d363347c)](https://www.youtube.com/watch?v=GdrngHw5Dx4&ab_channel=SergioBarrancoAguilar)
+
 
 
 This game has 2 modes:
